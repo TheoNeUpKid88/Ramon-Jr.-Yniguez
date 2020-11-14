@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Ramon Jr. Yniguez 👨‍💻
+  Hi there 👋 I'm Ramon Jr. Yniguez 👨🏽‍💻 
 </h1>
 
 <p align='center'>
@@ -71,7 +71,7 @@
 <img align="right" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 
-- 👨‍💻 **Senior Nodejs Developer**\
+- 👨🏽‍💻 **Senior Nodejs Developer**\
 📆 2020 - Present Day\
 📍 **FiServ** - Coral Springs, FL.
 
@@ -83,7 +83,7 @@
 <img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
 
-- 👨‍💻 **Lead Full-Stack Engineer**\
+- 👨🏽‍💻 **Lead Full-Stack Engineer**\
 📆 2018 - 2020\
 📍 **Great HealthWorks** - Fort Lauderdale, FL.
 
@@ -96,7 +96,7 @@
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
-- 👨‍💻 **Freelance - Full-Stack Engineer**\
+-  👨🏽‍💻 **Freelance - Full-Stack Engineer**\
 📆 2011 - 2015\
 📍 **Self-Employed** - Boston, MA.
 
