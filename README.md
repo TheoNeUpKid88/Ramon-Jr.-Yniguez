@@ -22,7 +22,12 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats-five-rose.vercel.app/api?username=theoneupkid88&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats-five-rose.vercel.app/api/top-langs/?username=theoneupkid88" width="350"></a>
+<!--   <a href="#"><img src="https://github-readme-stats-five-rose.vercel.app/api/top-langs/?username=theoneupkid88" width="350"></a> -->
+  <hr>
+  <br />
+  Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
+  <br />
+  <hr>
 </p>
 
 <p align='center'>
@@ -41,7 +46,8 @@
 <p align="center">
   <a href="https://www.thefreelancecrm.com" target="_blank"> What I am currently Working ON </a>
 </p>
-
+<br />
+<hr>
 <details>
   <summary>📃 My Resume</summary>
 
