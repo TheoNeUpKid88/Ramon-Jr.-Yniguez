@@ -71,7 +71,7 @@
 <img align="right" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 
-- 👨🏽‍💻 **Senior Nodejs Developer**\
+- 👨🏽‍💻 **Senior Software Developer / Lead**\
 📆 2020 - Present Day\
 📍 **FiServ** - Coral Springs, FL.
 
