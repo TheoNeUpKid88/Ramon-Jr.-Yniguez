@@ -44,7 +44,7 @@
                                                  width="350"></a>
 </p>
 <p align="center">
-  <a href="https://www.thefreelancecrm.com" target="_blank"> What I am currently Working ON </a>
+  <a href="https://ww.dreamindiestudios.com" target="_blank"> What I am currently Working ON </a>
 </p>
 <br />
 <hr>
@@ -66,13 +66,31 @@
 📍 **EXIN** - Boston, Ma.
 
 ## Experience
+<img align="right" src="https://img.shields.io/badge/Gradle%20-%2314354C.svg?&style=for-the-badge&logo=gradle&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java%20-%2314354C.svg?&style=for-the-badge&logo=oracle&logoColor=red" />
+<img align="right" src="https://img.shields.io/badge/SpringBoot-Java%20-%2314354C.svg?&style=for-the-badge&logo=spring-boot&logoColor=green" />
+
+<img align="right" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
+
+- 👨🏽‍💻 **Senior Principle Engineer**\
+📆 2023 - Present Day\
+📍 **Clarity Innovations LLC.** - Boston, MA.
+<img align="right" src="https://img.shields.io/badge/Go%20-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <img align="right" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 
 - 👨🏽‍💻 **Senior Software Developer / Lead**\
-📆 2020 - Present Day\
+📆 2020 - 2023 \
 📍 **FiServ** - Coral Springs, FL.
 
 <img align="right" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
